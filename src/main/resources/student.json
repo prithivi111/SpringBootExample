@@ -1,0 +1,13 @@
+{
+  "studentId" : 14,
+  "studentName" : "ABC",
+  "studRoll": 3,
+  "departments": [
+    {
+      "deptName": "Science"
+    },
+    {
+      "deptName": "Commerce"
+    }
+  ]
+}
